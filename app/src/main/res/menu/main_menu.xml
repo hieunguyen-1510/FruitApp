@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/log_out"
+        android:orderInCategory="200"
+        android:icon="@android:drawable/ic_lock_power_off"
+        app:showAsAction="always"
+        android:title="TODO" />
+    <item
+        android:id="@+id/action_changepassword"
+        android:title="Đổi mật khẩu" />
+    <item
+        android:id="@+id/action_thongke"
+        android:title="Thống kê trái cây" />
+
+</menu>
